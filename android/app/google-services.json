@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "694378821412",
+    "project_id": "ishthafoods",
+    "storage_bucket": "ishthafoods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694378821412:android:2ee6a7de03ec02c146e5b1",
+        "android_client_info": {
+          "package_name": "com.Ishthafood24x7.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe82AErgnqiLeIDcoPSDqOz-qOBfqU2xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694378821412:android:49521dd724af5cc746e5b1",
+        "android_client_info": {
+          "package_name": "com.ishthafoods24x7.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe82AErgnqiLeIDcoPSDqOz-qOBfqU2xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694378821412:android:f36fae26abb02b2346e5b1",
+        "android_client_info": {
+          "package_name": "com.ishthafoods24x7.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe82AErgnqiLeIDcoPSDqOz-qOBfqU2xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694378821412-86vcfe072ljvdj8kbg30eku4cssj05fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
